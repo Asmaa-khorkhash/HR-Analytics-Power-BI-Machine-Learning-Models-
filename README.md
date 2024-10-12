@@ -6,7 +6,7 @@
 
 
 
-3. Implemented machine learning models to predict employee attrition based on various factors such as job role, satisfaction levels, and work-life balance.
+3. Implemented machine learning models to predict employee attrition based on various factors such as job role, satisfaction levels, and work-life balance. 
 
 
 
